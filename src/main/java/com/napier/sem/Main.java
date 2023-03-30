@@ -2,7 +2,7 @@ package com.napier.sem;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Booa yah!");
+        System.out.println("Boo yah!");
     }
 
 }
